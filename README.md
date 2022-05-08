@@ -1,3 +1,3 @@
 # three-js-project
-# still not finished
-# runs on parcel
+still not finished
+runs on parcel
